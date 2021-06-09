@@ -8,7 +8,7 @@ http://www.enocean.com/esp
 
 のP.13ページから抜粋
 ### 構造
-![構造](https://github.com/borikatsu/read_enocean_sensor_python/readme/esp3.png)
+![構造](https://github.com/borikatsu/read_enocean_sensor_python/blob/master/readme/esp3.png)
 
 ## 解析
 実際にアーミン温度センサー（ETB-RHT）から送られてきたサンプルデータを利用。（1バイト毎のデータを16進数に変換済み）
@@ -33,7 +33,7 @@ http://www.enocean.com/esp
 
 のP.13ページから抜粋
 
-![バケットタイプ](https://github.com/borikatsu/read_enocean_sensor_python/readme/packet.png)
+![バケットタイプ](https://github.com/borikatsu/read_enocean_sensor_python/blob/master/readme/packet.png)
 
 今回のセンサーのバケットタイプがRadio_ERP2だということがわかる。
 現状Dataフィールド以外のデータは特に必要なデータではない模様。
@@ -43,7 +43,7 @@ http://www.enocean.com/esp
 
 のP.88ページから抜粋
 
-![erp2](https://github.com/borikatsu/read_enocean_sensor_python/readme/erp2.png)
+![erp2](https://github.com/borikatsu/read_enocean_sensor_python/blob/master/readme/erp2.png)
 
 
 ## ERP2
@@ -51,7 +51,7 @@ http://www.enocean.com/erp2
 
 のP.16ページから抜粋
 
-![erp2_1](https://github.com/borikatsu/read_enocean_sensor_python/readme/erp2_1.PNG)
+![erp2_1](https://github.com/borikatsu/read_enocean_sensor_python/blob/master/readme/erp2_1.PNG)
 
 上記の図に従い、Dataフィールドをさらに分解すると
 | シリアル    | 備考                | 
@@ -73,7 +73,7 @@ http://www.enocean-alliance.org/eep/
 
 のP.37ページから抜粋
 
-![eep](https://github.com/borikatsu/read_enocean_sensor_python/readme/eep.png)
+![eep](https://github.com/borikatsu/read_enocean_sensor_python/blob/master/readme/eep.png)
 
 
 Dataを2進数に変換すると
