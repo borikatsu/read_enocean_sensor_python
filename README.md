@@ -4,7 +4,7 @@
  EEPは2019年9月6日現在で最新のEnocean公式仕様書のバージョン2.6.8を前提に話を進める。
 
 ## ESP3
-http://www.enocean.com/esp
+[仕様書](http://www.enocean.com/esp)
 
 のP.13ページから抜粋
 ### 構造
@@ -29,7 +29,7 @@ http://www.enocean.com/esp
 | f1                            | チェックサム                          | 
 
 ### バケットタイプ
-http://www.enocean.com/esp
+[仕様書](http://www.enocean.com/esp)
 
 のP.13ページから抜粋
 
@@ -39,7 +39,7 @@ http://www.enocean.com/esp
 現状Dataフィールド以外のデータは特に必要なデータではない模様。
 
 #### Radio_ERP2
-http://www.enocean.com/esp
+[仕様書](http://www.enocean.com/esp)
 
 のP.88ページから抜粋
 
@@ -47,7 +47,7 @@ http://www.enocean.com/esp
 
 
 ## ERP2
-http://www.enocean.com/erp2
+[仕様書](http://www.enocean.com/erp2)
 
 のP.16ページから抜粋
 
@@ -66,10 +66,12 @@ Dataフィールドの構造は送信元のEEP仕様に従う。
 
 ## EEP
 今回のETB-RHTは公式サイトより「A5-04-03」というプロファイルであることがわかる。
-http://www.itec-corp.co.jp/index.php?ETx-RHT
+
+[公式サイト](http://www.itec-corp.co.jp/index.php?ETx-RHT)
+
 
 #### A5-04-03
-http://www.enocean-alliance.org/eep/
+[仕様書](http://www.enocean-alliance.org/eep/)
 
 のP.37ページから抜粋
 
