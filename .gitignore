@@ -1,0 +1,5 @@
+/logs/*
+!/logs/README.md
+.env
+__pycache__
+utilities/__pycache__
